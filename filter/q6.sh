@@ -1,0 +1,2 @@
+comm -12 f1 f2
+# In this command, the "-12" option is used to suppress the output of lines that are unique to the first file ("f1") and lines that are unique to the second file ("f2"). This leaves only the lines that are common to both files. When you execute this command, the common lines will be displayed on the terminal.
