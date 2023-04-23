@@ -1,4 +1,4 @@
-#include <stdio.h> 
+#include <stdio.h> // reader to message queue
 #include<string.h> 
 #include<stdlib.h> 
 #include<sys/ipc.h> 
